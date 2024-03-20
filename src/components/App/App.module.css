@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  font-family: 'Encode Sans Expanded', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  width: 600px;
+  padding: 30px;
+  margin: 0 auto;
+}
+
+.title {
+  color: #fd5d5d;
+}

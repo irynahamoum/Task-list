@@ -1,0 +1,9 @@
+.list {
+  list-style: none;
+  width: 480px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+}

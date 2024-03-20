@@ -1,0 +1,23 @@
+.taskBox {
+  display: flex;
+  padding: 20px;
+  border: 1.5px solid #90fcc8;
+  border-radius: 10px;
+  justify-content: space-between;
+}
+
+.taskBox:hover,
+.taskBox:focus,
+.taskBox:active {
+  border: 1.4px solid #fd5d5d;
+  outline: #fd5d5d;
+}
+
+.taskText {
+  color: #959494;
+  font-weight: 400;
+  width: 355px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

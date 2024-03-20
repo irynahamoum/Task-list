@@ -1,0 +1,32 @@
+.formContainer {
+  width: 480px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.formInput {
+  border: 1.4px solid #84fac1;
+  width: 378px;
+  border-radius: 10px;
+  height: 80px;
+  color: #959494;
+  padding-left: 12px;
+}
+
+.formInput:hover,
+.formInput:focus,
+.formInput:active {
+  border: 1.4px solid #fd5d5d;
+  outline: #fd5d5d;
+}
+
+.addBtn {
+  height: 34px;
+  width: 80px;
+  border-radius: 6px;
+  background-color: #69f7b2;
+  border: #84fac1;
+  color: white;
+}
